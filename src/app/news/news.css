@@ -1,0 +1,25 @@
+*{
+    font-family: poppins;
+    font-size: 18px;
+}
+@font-face {
+  font-family: 'Poppins';
+  src: url('../../assets/Poppins/Poppins-Regular.ttf') format('truetype');
+}
+img{
+    width: 100%;
+}
+h5{
+    font-size: 14px;
+    color: #F69DB3;
+    margin-top: 3%;
+}
+p{
+    color: #362828;
+}
+a{
+    color: #0038BC;
+}
+.View{
+    margin-top: 2%;
+}

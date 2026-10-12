@@ -1,0 +1,44 @@
+*{
+    font-family: poppins;
+    font-size: 18px;
+}
+@font-face {
+  font-family: 'Poppins';
+  src: url('../../assets/Poppins/Poppins-Regular.ttf') format('truetype');
+}
+main{
+    background-image: url("../../../public/images/group.png");
+    min-height: 577px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.ABOUT{
+    margin-top: 10%;
+}
+h2{
+    color: #EF8F00;
+    font-weight: 500;
+}
+h3{
+    color: #eeeeee;
+    font-size: 22px;
+
+}
+p{
+    color: #eeeeee;
+}
+a{
+    color:#F69DB3;
+}
+a:hover{
+    color:#e9cca0;
+}
+.Modern{
+    margin: 7% 0%;
+}
+.Learn{
+    color: #eeeeee;
+    background-color: transparent;
+    border: 1px solid #EF8F00;
+}

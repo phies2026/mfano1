@@ -1,0 +1,26 @@
+*{
+    font-family: poppins;
+    font-size: 18px;
+}
+@font-face {
+  font-family: 'Poppins';
+  src: url('../../assets/Poppins/Poppins-Regular.ttf') format('truetype');
+}
+h4{
+    font-size: 14px;
+    color: #EF8F00;
+    font-weight: 800;
+}
+.Explore{
+    font-size: 20px;
+    cursor: rgb(58, 50, 50);
+    font-weight: 600;
+}
+.View{
+    background-color: #0038BC;
+    color: #EF8F00;
+    margin: 2% 0%;
+}
+.OUR{
+    padding-top: 9%;
+}

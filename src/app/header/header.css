@@ -1,0 +1,33 @@
+*{
+    font-family: poppins;
+    font-size: 18px;
+}
+@font-face {
+  font-family: 'Poppins';
+  src: url('../../assets/Poppins/Poppins-Regular.ttf') format('truetype');
+}
+header{
+  box-shadow: 0 2px 8px #EF8F00;
+}
+.logo{
+    width: 96px;
+    height: 96px;
+    flex: 1;
+}
+.log{
+    flex: 1;
+}
+.navbar{
+    background-color: #0038BC;
+}
+.apply{
+    background-color: #EF8F00;
+    color:#0038BC;
+}
+
+.navbar-nav{
+    flex: 1;
+}
+.side{
+    flex: 1;
+}

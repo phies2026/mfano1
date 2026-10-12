@@ -1,0 +1,33 @@
+*{
+    font-family: poppins;
+    font-size: 18px;
+}
+@font-face {
+  font-family: 'Poppins';
+  src: url('../../assets/Poppins/Poppins-Regular.ttf') format('truetype');
+}
+main{
+    background-image: url("../../../public/images/bg2.png");
+    min-height: 470px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 3%;
+}
+.Explore{
+    align-items: center;
+    min-height: 470px;
+}
+.Learn{
+justify-content: center;
+text-align: center;
+}
+h3{
+    color: #eeeeee;
+}
+p{
+    color: #eeeeee;
+}
+.Apply{
+    background-color: #EF8F00;
+    font-size: 16px;
+}
